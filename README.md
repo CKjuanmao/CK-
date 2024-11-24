@@ -36,6 +36,7 @@ Awesome Machine Learning：
 机器学习面试准备指南：
 地址：https://github.com/khangich/machine-learning-interview
 特点：该仓库提供了全面的学习指南和资源，帮助你准备大型科技公司的机器学习工程和数据科学面试。它包括ML基础知识、深度学习概念、经典ML论文、常见的ML系统设计面试问题等。
+
 深度学习入门教程：
 地址：https://github.com/sanwan/DeepLearning
 特点：该仓库提供了深度学习入门教程和优秀文章，包括神经网络模型概览、GAN学习指南、RNN发展史等内容，适合初学者入门深度学习。
